@@ -1,0 +1,233 @@
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\project.exe
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.RazorAssemblyInfo.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.RazorAssemblyInfo.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.TagHelpers.input.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.TagHelpers.output.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.RazorCoreGenerate.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.Manifest.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.xml
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.MvcApplicationPartsAssemblyInfo.cache
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.dll
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.pdb
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\project.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\project.pdb
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\project.Views.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\project.Views.pdb
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Univer\ITPM\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.Views.pdb
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.csproj.CopyComplete
+E:\Univer\ITPM\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\project.Views.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\project.Views.pdb
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorAssemblyInfo.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorAssemblyInfo.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.TagHelpers.input.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.TagHelpers.output.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorCoreGenerate.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cs
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.Views.pdb
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.csproj.CopyComplete
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.Manifest.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.xml
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\Dima Moment\Desktop\Denhick\project\obj\Debug\netcoreapp3.1\project.MvcApplicationPartsAssemblyInfo.cache
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\project.exe
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\project.deps.json
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\project.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\project.pdb
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\project.Views.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\project.Views.pdb
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Univer\Denhick\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.MvcApplicationPartsAssemblyInfo.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorAssemblyInfo.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorAssemblyInfo.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.TagHelpers.input.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.TagHelpers.output.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorCoreGenerate.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cs
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.Views.pdb
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.csproj.CopyComplete
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.Manifest.cache
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.xml
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.dll
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.pdb
+E:\Univer\Denhick\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
